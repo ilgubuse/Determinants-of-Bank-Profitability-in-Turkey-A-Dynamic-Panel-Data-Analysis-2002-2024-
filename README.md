@@ -1,5 +1,5 @@
 ## Determinants of Bank Profitability in Turkey: A Dynamic Panel Data Analysis (2002-2024)   
-# Proje Başlığı ve ÖzetBaşlık: 
+# Proje Başlığı ve Özet Başlık: 
 
 Türkiye Ekonomisinin Kantitatif Analizi: Makroekonomik Değişkenlerin Banka Kârlılığı Üzerindeki Etkileri (2002-2024)   
 
